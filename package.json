@@ -1,0 +1,15 @@
+{
+  "name": "trabalhinho",
+  "version": "1.0.0",
+  "description": "Trabalho de Org e Arch",
+  "main": "src/index.js",
+  "dependencies": {
+    "filereader": "^0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Allan Ribeiro",
+  "license": "ISC"
+}
